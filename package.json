@@ -1,0 +1,22 @@
+{
+  "name": "metamath",
+  "version": "0.0.1",
+  "description": "A modern math manipulation environment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mathijshenquet/metamath.git"
+  },
+  "keywords": [
+    "math"
+  ],
+  "author": "mthq <mathijs.henquet@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mathijshenquet/metamath/issues"
+  },
+  "homepage": "https://github.com/mathijshenquet/metamath"
+}
